@@ -1,0 +1,26 @@
+{
+  "name": "crypto_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hey999999999/crypto_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hey999999999/crypto_demo/issues"
+  },
+  "homepage": "https://github.com/hey999999999/crypto_demo#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-multer": "^1.0.2",
+    "koa-route": "^3.2.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^5.0.0"
+  }
+}
